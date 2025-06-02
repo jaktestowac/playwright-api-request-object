@@ -1,0 +1,1 @@
+export const apiURL = '/api/practice/v1/weather';
