@@ -28,14 +28,6 @@ Read more about our **[Contribution to Playwright and Community](https://jaktest
 | **Runtime**                 | Node.js    | v20+ LTS | JavaScript runtime         |
 | **Package Manager**         | npm        | Latest   | Dependency management      |
 
-## Prerequisites
-
-Before you start, make sure you have the following installed:
-
-- [Node.js](https://nodejs.org) (v20 or later LTS version)
-- our free application to practice automation - [🦎 GAD](https://github.com/jaktestowac/gad-gui-api-demo)
-- [VSCode] (https://code.visualstudio.com) IDE for coding
-
 ## 🏃‍♂️ Quick Start
 
 ### **Prerequisites**
