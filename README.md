@@ -1,7 +1,7 @@
 # Playwright Webinar: LEVEL UP! Architecture and AI in API Testing with Playwright
 
 This repository contains code used during Webinar organized by jaktestowac.pl:
-# [Playwright Webinar: LEVEL UP! Architecture and AI in API Testing with Playwright](https://jaktestowac.pl/pwapi/)
+[Playwright Webinar: LEVEL UP! Architecture and AI in API Testing with Playwright](https://jaktestowac.pl/pwapi/)
 
 that demonstrate the evolution of API testing architecture using Playwright, focusing on advanced patterns and AI integration.
 
